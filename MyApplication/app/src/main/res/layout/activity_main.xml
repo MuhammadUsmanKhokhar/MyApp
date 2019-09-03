@@ -14,6 +14,11 @@
        android:scaleType="centerCrop"
 
        />
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:text="User name changed"
+       android:textSize="30dp"/>
 
  
 
